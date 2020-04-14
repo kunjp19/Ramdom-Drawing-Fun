@@ -1,0 +1,114 @@
+#ControlPanel{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-column-gap: 30px;
+  grid-row-gap: 20px;
+  align-content: center;
+  box-sizing: border-box;
+  max-width: 500px;
+}
+#MyFont{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+#C,#S
+{
+  background-color: skyblue;
+  font-style: Century;
+  font: bold;
+  float: right;
+  text-align: center;
+}
+#DoClear
+{
+  background-color: pink;
+  font-style: Century;
+  font: bold;
+  float: right;
+}
+fieldset
+{
+  border-color: seagreen;
+  border-style: ridge;
+}
+legend
+{
+  color: crimson;
+  font-family: cursive Bold;
+}
+
+label{
+  color: royalblue;
+  font-style: Century;
+}
+body{
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  font-display: block;
+}
+#MyDrawing{
+  border-color: 1px seagreen;
+  border-style: ridge;
+  width: 500px;
+  height: 500px;
+}
+#ControlPanel{
+  display: grid;
+  grid-template-columns: auto auto auto;
+  grid-column-gap: 30px;
+  grid-row-gap: 20px;
+  align-content: center;
+  box-sizing: border-box;
+  max-width: 500px;
+}
+#MyFont{
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  flex-direction: column;
+}
+#C,#S
+{
+  background-color: skyblue;
+  font-style: Century;
+  font: bold;
+  float: right;
+  text-align: center;
+}
+#DoClear
+{
+  background-color: pink;
+  font-style: Century;
+  font: bold;
+  float: right;
+}
+fieldset
+{
+  border-color: seagreen;
+  border-style: ridge;
+}
+legend
+{
+  color: crimson;
+  font-family: cursive Bold;
+}
+
+label{
+  color: royalblue;
+  font-style: Century;
+}
+body{
+  max-width: 500px;
+  margin-left: auto;
+  margin-right: auto;
+  font-display: block;
+}
+#MyDrawing{
+  border-color: 1px seagreen;
+  border-style: ridge;
+  width: 500px;
+  height: 500px;
+}
